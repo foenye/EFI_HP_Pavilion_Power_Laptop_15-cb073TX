@@ -6,7 +6,7 @@ The Ventura-AirportItlwm.kext V2.3.0 used for WiFi requires a patch.
   - macOS Sequoia 15.7.x
 #### Summaries:
   - Opencore v1.0.6
-  - Patched model: MacBookPro15,1 (macOS 14+ required)
+  - Patched model: MacBookPro15,1 (Prerequisites for macOS 14+)
 #### Usage steps:
   - Install Sequoia normally or on an existing Sequoia macOS.
   - Replace with this EFI
