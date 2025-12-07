@@ -1,4 +1,5 @@
 This EFI was created with reference to the [OCLP-X](https://github.com/JeoJay127/OCLP-X) guidelines.
+
 The Ventura-AirportItlwm.kext V2.3.0 used for WiFi requires a patch.
 
 #### Supported os:
