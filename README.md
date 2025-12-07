@@ -9,7 +9,7 @@ The Ventura-AirportItlwm.kext V2.3.0 used for WiFi requires a patch.
   - Patched model: MacBookPro15,1 (Prerequisites for macOS 14+)
 #### Usage steps:
   - Install Sequoia normally or on an existing Sequoia macOS.
-  - Replace with this EFI
+  - Replace with this EFI (Optional use [MountEFI](https://github.com/corpnewt/MountEFI))
   - Download and install [OCLP-X OpenCore-Patcher.pkg](https://github.com/JeoJay127/OCLP-X/releases) on your Sequoia
   - Run OpenCore-Patcher.app execute `Post-Install Root Patch` -> `Start Root Patching` (When you see: Available patches for your system: Networking: Intel WiFi)
   - After restarting, WiFi and Bluetooth are now working.
